@@ -1,0 +1,14 @@
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\bin\Debug\netcoreapp2.2\ContactsAppHarkka.deps.json
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\bin\Debug\netcoreapp2.2\ContactsAppHarkka.runtimeconfig.json
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\bin\Debug\netcoreapp2.2\ContactsAppHarkka.runtimeconfig.dev.json
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\bin\Debug\netcoreapp2.2\ContactsAppHarkka.dll
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\obj\Debug\netcoreapp2.2\ContactsAppHarkka.csprojAssemblyReference.cache
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\obj\Debug\netcoreapp2.2\ContactsAppHarkka.csproj.CoreCompileInputs.cache
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\obj\Debug\netcoreapp2.2\ContactsAppHarkka.RazorAssemblyInfo.cache
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\obj\Debug\netcoreapp2.2\ContactsAppHarkka.RazorAssemblyInfo.cs
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\obj\Debug\netcoreapp2.2\ContactsAppHarkka.AssemblyInfoInputs.cache
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\obj\Debug\netcoreapp2.2\ContactsAppHarkka.AssemblyInfo.cs
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\obj\Debug\netcoreapp2.2\ContactsAppHarkka.RazorTargetAssemblyInfo.cache
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\bin\Debug\netcoreapp2.2\ContactsAppHarkka.pdb
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\obj\Debug\netcoreapp2.2\ContactsAppHarkka.dll
+C:\Users\jani\Documents\Harjoitustyö\ContactsAppHarkka\ContactsAppHarkka\obj\Debug\netcoreapp2.2\ContactsAppHarkka.pdb
